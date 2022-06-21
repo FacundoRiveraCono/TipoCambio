@@ -97,13 +97,13 @@ namespace APITipoCambio
             //SAPbobsCOM.Company oC = new SAPbobsCOM.Company();
             SAPbobsCOM.Company oC = new SAPbobsCOM.Company();
 
-            oC.Server = "NDB@br01-srv-db02:30013";
+            oC.Server = "Servidor";
             oC.UserName = "SERV-FINANZAS";
-            oC.Password = "B1Admin1";
-            oC.LicenseServer = "br01-srv-db02:40000";
+            oC.Password = "Contreña";
+            oC.LicenseServer = "Servidor";
             oC.DbUserName = "SYSTEM";
-            oC.DbPassword = "$ConoAdm1n";
-            oC.CompanyDB = "CONO_PROD";
+            oC.DbPassword = "Contraseña";
+            oC.CompanyDB = "BASE_PROD";
             oC.DbServerType = SAPbobsCOM.BoDataServerTypes.dst_HANADB;
 
             Console.WriteLine("Ingresando a SAP-SA");
@@ -134,12 +134,12 @@ namespace APITipoCambio
             //SAPbobsCOM.Company oC = new SAPbobsCOM.Company();
             SAPbobsCOM.Company oC = new SAPbobsCOM.Company();
 
-            oC.Server = "NDB@br01-srv-db02:30013";
+            oC.Server = "Servidor";
             oC.UserName = "SERV-FINANZAS";
-            oC.Password = "B1Admin1";
-            oC.LicenseServer = "br01-srv-db02:40000";
+            oC.Password = "Contraseña";
+            oC.LicenseServer = "Contraseña";
             oC.DbUserName = "SYSTEM";
-            oC.DbPassword = "$ConoAdm1n";
+            oC.DbPassword = "Contraseña";
             oC.CompanyDB = "CONO_TSAS";
             oC.DbServerType = SAPbobsCOM.BoDataServerTypes.dst_HANADB;
 
@@ -250,12 +250,12 @@ namespace APITipoCambio
             //SAPbobsCOM.Company oC = new SAPbobsCOM.Company();
             SAPbobsCOM.Company oC = new SAPbobsCOM.Company();
 
-            oC.Server = "NDB@br01-srv-db02:30013";
+            oC.Server = "Servidor";
             oC.UserName = "SERV-FINANZAS";
-            oC.Password = "B1Admin1";
-            oC.LicenseServer = "br01-srv-db02:40000";
+            oC.Password = "Contraseña";
+            oC.LicenseServer = "Servidor";
             oC.DbUserName = "SYSTEM";
-            oC.DbPassword = "$ConoAdm1n";
+            oC.DbPassword = "Contraseña";
             oC.CompanyDB = "CONO_TINT";
             oC.DbServerType = SAPbobsCOM.BoDataServerTypes.dst_HANADB;
 
@@ -287,12 +287,12 @@ namespace APITipoCambio
             //SAPbobsCOM.Company oC = new SAPbobsCOM.Company();
             SAPbobsCOM.Company oC = new SAPbobsCOM.Company();
 
-            oC.Server = "NDB@br01-srv-db02:30013";
+            oC.Server = "Servidor";
             oC.UserName = "SERV-FINANZAS";
-            oC.Password = "B1Admin1";
-            oC.LicenseServer = "br01-srv-db02:40000";
+            oC.Password = "Contraseña";
+            oC.LicenseServer = "Servidor";
             oC.DbUserName = "SYSTEM";
-            oC.DbPassword = "$ConoAdm1n";
+            oC.DbPassword = "Contraseña";
             oC.CompanyDB = "CONO_GROUP";
             oC.DbServerType = SAPbobsCOM.BoDataServerTypes.dst_HANADB;
 
