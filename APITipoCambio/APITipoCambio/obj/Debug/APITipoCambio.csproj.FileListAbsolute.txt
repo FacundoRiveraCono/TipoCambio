@@ -1,0 +1,12 @@
+C:\Users\frivera\source\repos\APITipoCambio\APITipoCambio\bin\Debug\APITipoCambio.exe.config
+C:\Users\frivera\source\repos\APITipoCambio\APITipoCambio\bin\Debug\APITipoCambio.exe
+C:\Users\frivera\source\repos\APITipoCambio\APITipoCambio\bin\Debug\APITipoCambio.pdb
+C:\Users\frivera\source\repos\APITipoCambio\APITipoCambio\bin\Debug\RestSharp.dll
+C:\Users\frivera\source\repos\APITipoCambio\APITipoCambio\bin\Debug\RestSharp.xml
+C:\Users\frivera\source\repos\APITipoCambio\APITipoCambio\obj\Debug\APITipoCambio.csproj.AssemblyReference.cache
+C:\Users\frivera\source\repos\APITipoCambio\APITipoCambio\obj\Debug\APITipoCambio.csproj.CoreCompileInputs.cache
+C:\Users\frivera\source\repos\APITipoCambio\APITipoCambio\obj\Debug\APITipoCambio.exe
+C:\Users\frivera\source\repos\APITipoCambio\APITipoCambio\obj\Debug\APITipoCambio.pdb
+C:\Users\frivera\source\repos\APITipoCambio\APITipoCambio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\frivera\source\repos\APITipoCambio\APITipoCambio\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\frivera\source\repos\APITipoCambio\APITipoCambio\bin\Debug\Newtonsoft.Json.xml
