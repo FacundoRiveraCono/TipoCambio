@@ -31,3 +31,38 @@ C:\Users\frivera\source\repos\APITipoCambio\APITipoCambio\bin\x64\Debug\ru\FShar
 C:\Users\frivera\source\repos\APITipoCambio\APITipoCambio\bin\x64\Debug\tr\FSharp.Core.resources.dll
 C:\Users\frivera\source\repos\APITipoCambio\APITipoCambio\bin\x64\Debug\zh-Hans\FSharp.Core.resources.dll
 C:\Users\frivera\source\repos\APITipoCambio\APITipoCambio\bin\x64\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\APITipoCambio.exe.config
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\APITipoCambio.exe
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\APITipoCambio.pdb
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\FSharp.Core.dll
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\HtmlAgilityPack.dll
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\RestSharp.dll
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\SAPBusinessOneSDK.dll
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\ScrapySharp.Core.dll
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\ScrapySharp.dll
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\FSharp.Core.xml
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\HtmlAgilityPack.pdb
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\HtmlAgilityPack.xml
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\RestSharp.xml
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\cs\FSharp.Core.resources.dll
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\de\FSharp.Core.resources.dll
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\en\FSharp.Core.resources.dll
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\es\FSharp.Core.resources.dll
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\fr\FSharp.Core.resources.dll
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\it\FSharp.Core.resources.dll
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\ja\FSharp.Core.resources.dll
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\ko\FSharp.Core.resources.dll
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\pl\FSharp.Core.resources.dll
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\ru\FSharp.Core.resources.dll
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\tr\FSharp.Core.resources.dll
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\bin\x64\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\obj\x64\Debug\APITipoCambio.csproj.AssemblyReference.cache
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\obj\x64\Debug\APITipoCambio.csproj.SuggestedBindingRedirects.cache
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\obj\x64\Debug\APITipoCambio.csproj.CoreCompileInputs.cache
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\obj\x64\Debug\APITipoCambio.csproj.CopyComplete
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\obj\x64\Debug\APITipoCambio.exe
+C:\Repos Locales\AddonTipoCambio\APITipoCambio\APITipoCambio\obj\x64\Debug\APITipoCambio.pdb
